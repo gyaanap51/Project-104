@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    font-style: italic;
+}
+h1{
+    font-family: 'El Messiri', sans-serif;
+    color: blue;
+}
+p{
+    font-family: 'Bungee Inline', cursive;
+    color: rgb(235, 12, 12);
+    font-size: medium;
+}
+button{
+    background-color: rgb(224, 178, 24);
+    font-family: 'BioRhyme', serif;
+}
+#camera{
+    border: blue solid 5px;
+    width: 400px;
+    height: 400px;
+}
